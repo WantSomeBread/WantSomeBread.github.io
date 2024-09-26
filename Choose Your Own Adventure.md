@@ -1,4 +1,4 @@
 flowchart TD
-A(Start) --> B(Door Bell Rings)
-B -->|Answer|
-B -->|Ignore|
+	A(Start) --> B(Door Bell Rings)
+	B -->|Answer|
+	B -->|Ignore|
